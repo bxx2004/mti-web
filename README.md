@@ -21,3 +21,9 @@ If the server starts successfully, you'll see the following output:
 
 ## Test data
 <img width="2480" height="1155" alt="image" src="https://github.com/user-attachments/assets/abc5c69e-3989-47fc-be93-3cdf3248fc8c" />
+
+## Cite
+
+https://doi.org/10.1101/2025.09.01.673225
+
+Liu H, Wang Y, Yang R, et al. Mating-Type Imputation (MTI) provides an efficient tool for the mating-type inference of tetrapolar fungi[J]. bioRxiv, 2025: 2025.09. 01.673225.
