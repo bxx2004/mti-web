@@ -1,9 +1,7 @@
 # Mating-Type Imputation (MTI) provides an efficient tool for the mating-type inference of tetrapolar fungi
 
-|         |                                                                  |
+|    Email     |      <xiaoshijun@jlau.edu.cn>                                                             |
 | ------- | ---------------------------------------------------------------- |
-| Email   | <xiaoshijun@jlau.edu.cn>                                           |
-| License | [BSD](http://creativecommons.org/licenses/BSD/)                  |
 
 ## Installation
 
